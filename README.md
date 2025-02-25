@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/902773932.svg)](https://doi.org/10.5281/zenodo.14926086)
 # Quantification of LAMP1 nearest distance to TDP43 clusters
 
 This repository contains an ImageJ macro script for analyzing cellular microscopy data, specifically designed to process and analyze images containing nuclei, spots, and cluster markers across multiple cells.
